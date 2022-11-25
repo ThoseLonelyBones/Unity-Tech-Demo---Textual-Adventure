@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7ee684f61b0c84b95650353af3f1c3, type: 3}
+  m_Name: BoilerRoom
+  m_EditorClassIdentifier: 
+  scenario_text: "Pushing through the heat of the boiler room, you find yourself in
+    what appears to be the aftermath of a battle.\r\n\r\nFellow Guardsmen are lying
+    motionless on the ground, their armor and weapons broken and battered by what
+    appears to be a gigantic creature's swings.\n\nFortunately, one of them still
+    has some armor in servicable condition, the only piece of equipment worth taking.
+    You are not a stranger to repurposing the dead's items and the armor fits you
+    well enough.\n\nYou have aquired Acidproof Armor!"
+  scenario_name: Scenario2
+  scenario_alt_text: "You return in the boiler room, attempting to locate a new path
+    or some extra scavengable items. However, nothing else seems to catch your attention
+    in the room. \n\nYou take a moment to do a quick prayer: \"May these poor souls
+    find comfort knowing they died serving the God-Emperor\"."

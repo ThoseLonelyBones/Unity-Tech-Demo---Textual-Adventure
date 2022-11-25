@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7ee684f61b0c84b95650353af3f1c3, type: 3}
+  m_Name: LasgunRoom
+  m_EditorClassIdentifier: 
+  scenario_text: "To your right, the only thing that seems to lead anywhere is a ventilation
+    shaft. The insides are filthy, and a greenish muck seems to cover every inch and
+    wall of this place.\r\n\nAs you put your hand close to the substance, it singes
+    your skin. This acid is very potent and will melt you in seconds if you go in
+    like that. You realize that if you are to cross around this place, you will need
+    protective gear which you don't have. Maybe there's some left about...\n\n\n"
+  scenario_name: Scenario3
+  scenario_alt_text: "To your right, the only thing that seems to lead anywhere is
+    a ventilation shaft. The insides are filthy, and a greenish muck seems to cover
+    every inch and wall of this place.\r\n\r\nUsing your protective armor, you manage
+    to slide around the place without getting corroded.\r\n\r\nThe blinking light
+    is revealed to be a working Lasgun! You thank the Emperor for this humble gift:
+    the Lasgun is the one, true weapon of the Guard and it will serve you well against
+    the coming horrors.\n\nYou have aquired the Lasgun!"

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7ee684f61b0c84b95650353af3f1c3, type: 3}
+  m_Name: TrueEnding
+  m_EditorClassIdentifier: 
+  scenario_text: "You realize you no longer have a body. You are witnessing yourself,
+    wake up from a long slumber and take once again the steps you decided to make,
+    turning into the creature an infinite amount of times.\n\r\nYou realize this reality
+    you are in is nothing more than a game and you are but a pawn.\r The Architect
+    of Fate delights in your limited choices and cackles at the thought of you attempting
+    to break the cycle. There is no salvation, only Tzeentch's Plan.\r\n\r\r\nYou
+    scream, but realize that you no longer have any presence here. Your body is not
+    here and these words are but a representations of your thoughts. Your soul is
+    in the Warp. The God-Emperor failed you.\r\n\r\nOne last time, before your soul
+    is forced to be reborn again, you hear the God of Deceit's maddening laughter."
+  scenario_name: Scenario5
+  scenario_alt_text: 

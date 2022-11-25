@@ -1,0 +1,140 @@
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMKdlcclllllllllllllllllllllllllllllllllllllllllllllllllco0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0oclllllllllllllllllllllllllllllllllllllllllllllllllllldKMM
+MMXo.                                                    .dWMMMMMMMMN0xolcccclox0NWMMMMMMMWd.                                                    .oXMM
+MMMWO;                                                  .:OWMMMMMNOl,.          .'ckNMMMMMWO:.                                                  ;OWMMM
+MMMMMXd::::;;;;;:::::::::::;;::;::;;;;;,.             'dKWMMMMMWO;                  ;OWMMMMMWKd'             .,;;;;;::;;:::;;;;;;;;;;;;;:;;::::dXMMMMM
+MMMMMMMWWWWWWWWWWNNNXXK00OOkxxdoolc::;,'.            'OWMMMMMMXo.                    .oNMMMMMMWO'            .',;::cloodxxkOO00KXXXNNWWWWWWWWWMMMMMMMM
+MMMMMMMMMNkolcc::;,'......                           cNMMMMMMXl.                      .lNMMMMMMNc                            .....',;::cclokNMMMMMMMMM
+MMMMMMMMMNx'                          .';.           ;KMMMMMWx.                        .xWMMMMMK;           .;'.                          'xNMMMMMMMMM
+MMMMMMMMMMW0;                  ..':ldxxo:.            ;OWMMMNc                          lNMMMWO;            .coxxdo:'.                   ;0WMMMMMMMMMM
+MMMMMMMMMMMMXd'          ..,:ox0KK0xc,.                .cONWNc                          cNWNOc.                .,cx0KKOxo:,..          .dXMMMMMMMMMMMM
+MMMMMMMMMMMMMWKc.  ..;cox0XWWN0dc,.      ..              .'cko.                        .dkc'.              ..      .,cd0NWNX0koc;..  .c0WMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMNOdk0XWMMWX0dc'.        ,lo:.                ,x:                        cO:                 ;ol'        .'cdOXWMMWX0kdkNMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMWXOdc'.         .cxxc.                  .kk.                      .OO'                  .lxxc.         .'cdOXWMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWk,.          .:x0O:.    .,.             .o0;                      :Kd.             .,.    .cO0x:.          .,kWMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMWKl.       .;d0Kk:.    .c0x.             .oO, ..'.            .'.. ,Od.             .x0l.    .:kX0d;.       .lKWMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMW0c.   'o0NXx;      ,x0o.   .         .ok; .lXN0xl;.    .;ld0NXl. ;ko.         .   .oKk,      ,xXN0o'   .:0WMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMWkclONWKd,      .oKK:   .l:         :XO' .oWMMMNO;    ;ONWMMWo  '0K;         :l.   :0Ko.      ,dKWXklckNMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMWMWKo.       :0Nk,    cx'   .;'   :XWx. .lolc'. .;;. .':odl. .xWX:   ';.   'd:    ,kN0:       .oKWMWMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMWk'      'dXKl.    'dc    ,k:   :XMXc        .dXXd.        lNMX:   :x,    cd'    .lKXd'      'kWMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMW0:.  .lKWO,     .dx.    c0:   :XMMKo;,,.   .;;;;.   .,,;oXMMX:   :0c    .xd.     ,OWKl.  .:0WMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWOccOWNx'     .lKl    .xK;   :XMMMMWWk'            'OWWWMMMX:   ;Kd.    oKl.     .xNWOclOWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWMXl.      cX0,    '0K;   :XMMMMMWo              oWMMMMMX:   ;KO'    ,0Xc      .lXMWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXo'     ;0No.    :XK;   :XMMMMMNd',,,;,',,;,'''dNMMMMMX:   ;KX:    .oN0,     'oXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXd,. .xWO'    .oWK, .:OWMMMMMMWNNNNNNNNNNNXNNWMMMMMMWO:. ,KWo.    'OWk. .,dXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOdxXNc     .xMKoo0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0ooKMO.     lNNkdONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNd;'..'lKMWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWMXo'..';xNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWXKKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXXKXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+
+// STARTING SCENARIO
+
+The year is the 999th of the 41st Millenium. Your planet is Cadia and, like countless others, you are part of the Imperial Guard, Mankind's countless faithful servants who give their life to protect the Imperium's continued existence in the galaxy.
+
+You were fighting hordes of unidentified creatures out of your worst nightmares when you blacked out. You don't remember much but your head feels heavy and your sight grows ever dimmer.
+
+The only thing you can scan around you is the bleak and depressing corridors of the Hive City and - labirinthic as they are - give you no direction on your current location.
+
+What do you want to do?
+
+// STARTING SCENARIO ALT-TEXT
+
+Returning to the corridor you woke up on, the only thing you can scan around you is the bleak and depressing corridors of the Hive City and - labirinthic as they are - give you no direction on your current location.
+
+What do you want to do?
+
+// BOILER ROOM
+
+Pushing through the heat of the boiler room, you find yourself in what appears to be the aftermath of a battle.
+
+Fellow Guardsmen are lying motionless on the ground, their armor and weapons broken and battered by what appears to be a gigantic creature's swings.
+
+Fortunately, one of them still has some armor in servicable condition, the only piece of equipment worth taking. You are not a stranger to repurposing the dead's items and the armor fits you well enough.
+
+// BOILER ROOM ALT-TEXT
+
+You return in the boiler room, attempting to locate a new path or some extra scavengable items. However, nothing else seems to catch your attention in the room. May these poor souls find comfort knowing they died serving the God-Emperor.
+
+// BLINKING LIGHT
+
+To your right, the only thing that seems to lead anywhere is a ventilation shaft. The insides are filthy, and a greenish muck seems to cover every inch and wall of this place.
+
+As you put your hand close to the substance, it singes your skin. This acid is very potent and will melt you in seconds if you go in like that. You realize that if you are to cross around this place, you will need protective gear which you don't have. Maybe there's some left about...
+
+// BLINKING LIGHT ALT-TEXT
+
+To your right, the only thing that seems to lead anywhere is a ventilation shaft. The insides are filthy, and a greenish muck seems to cover every inch and wall of this place.
+
+Using your protective armor, you manage to slide around the place without getting corroded.
+
+The blinking light is revealed to be a working Lasgun! You thank the Emperor for this humble gift: the Lasgun is the one, true weapon of the Guard and it will serve you well against the coming horrors.
+
+(Lasgun = True)
+
+// BLINKING LIGHT ALT-TEXT (v2)
+
+No light blinks any longer in this corridor. It seems like it's no longer worth checking out.
+
+// CHAOS SPAWN
+
+To the northern corridor you go, with nothing in hand to protect yourself. In the darkness you spot a massive creature that, with a horrid screech, jumps to your location.
+
+// CHAOS SPAWN ALT TEXT
+
+(If Lasgun = True)
+
+You fight the creature, Lasgun in hand. With a few solid shots, it crawls on the ground un-moving. However, your head feels ever heavier and your sight grows dimmer. The creature... awakened something in you. You feel a manifestation of the Warp take a hold of your mind.
+
+You can no longer think straight. Your thoughts are being corrupted by the very creature you killed.
+
+Your devotion to the God Emperor turns to hatred.
+Your faith in his Will becomes deceitful schemeing and lies.
+Your outlook for the Imperium's survival become bleak, and you find humour in that.
+Your desire for pleasures once denied to you can no longer be sated.
+
+In your last concious moments, your prayers to the God Emperor turn into curses and you transform into the very creature you have just slain.
+
+// TRUE ENDING
+
+You realize you no longer have a body. You are witnessing yourself, wake up from a long slumber and take once again the steps you decided to make. Again and Again, dying to the creature or becoming it once more.
+You realize this reality you are in is nothing more than a game and you are but a pawn.
+
+The Architect of Fate delights in your limited choices and cackles at the thought of you attempting to break the cycle. There is no salvation, only Tzeentch's Plan.
+
+This entire reality... is madness! It cannot be comprehended! But yet... the Guardsman once again lives and once again makes their choices. No matter how many time they die by the Spawn or become the Spawn themselves.
+
+You scream, but realize that you no longer have any presence here. Your body is not here and these words are but a representations of your thoughts. Your soul is in the Warp. The God-Emperor failed you.
+
+One last time, before your soul is fully consumed only to be reborn again, you hear the God of Deceit's Maddening Laughter.
+
+// TRUE ENDING ALT TEXT
+
+
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNOxxONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNK0OxddoolllllllloooddxkkO00KKXXNWWWMMMMMMMMMMMMWWNX0koccoONMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKxl:,..                         .....'',,;::::ccc:::;,'''',ckXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM0:.                                  .......  ......',:coxOKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWd.                           ,ldxkOO000000000000KKXNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNl                          .xWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk.                          .:OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKkc.                             ;XMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMWNXK0kdoc;'.                             .,l0WMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWXKOkdoc:,'..                                .':okKWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMWXOdl:,..                                       'lxKNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMWKd:.                                             ;KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMXo.                                                 ,lxO0XNNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMWo                                                     .,:oxO0KXKK00000000000KKXXNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMK0NMMMMMMMMMMMMM
+MMMMMMMNl                                             .';cllccccc:;,'.......      ......',;:cldxOKNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXx'.cXMMMMMMMMMMMM
+MMMMMMMMk.                                       .,cdxdol:'.                                     ..;cdOXWMMMMX0KKXXXXXXXXXKK00Okxoc;.    oWMMMMMMMMMMM
+MMMMMMMMWk.                                   .;dKXOl'.                                                .:xNMMXo'.............           .dWMMMMMMMMMMM
+MMMMMMMMMMKo.                                ,OWMKc.                                                      ,OWMWd.                      'dNMMMMMMMMMMMM
+MMMMMMMMMMMMXx:.                            .OMMWd                                                         :XMM0'                   .:xXMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMWXkl;.                        .dWMMK:                                                       'kWMWd.               .;lkXWMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMWX0xl:,..                  .cONMNkc.                                                 .;dXMNk:.          .';ldOXWMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMWX0kxoc:,'..           .,okKWXOdc,..                                      .,:ok0KOxc'    ...,;coxOKNWMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNXKOkxdolc:;;,'..';cldk0KK0kxol:;,'.....            ....',;:codk0XWMMWKkdloodxkO0KXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNXXKK0000KNWMMMMMMWNXXK000OOOOOOOOOO00KXXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM

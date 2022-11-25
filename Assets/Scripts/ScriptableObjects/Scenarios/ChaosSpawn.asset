@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7ee684f61b0c84b95650353af3f1c3, type: 3}
+  m_Name: ChaosSpawn
+  m_EditorClassIdentifier: 
+  scenario_text: 'To the northern corridor you go, with nothing in hand to protect
+    yourself. In the darkness you spot a massive creature, shrieking horribly. The
+    creature looks like an amalgamation of tentacles: a Chaos Spawn, a creature corrupted
+    by the Great Enemy of Mankind!
+
+
+    Even if your heart burns with rage at the sight of the monster, you know well
+    that you will require a weapon to fight it. As you try to reach for your Lasgun,
+    you realize it''s not there! You will need to find a weapon...'
+  scenario_name: Scenario4
+  scenario_alt_text: "To the northern corridor you go, ready for a fight with whoever
+    or whatever is making this terrible noise. In the darkness you spot a massive
+    creature that, with a horrid screech, jumps to your location.\n\nYou fight the
+    creature, Lasgun in hand. With a few solid shots, it crawls on the ground un-moving.
+    However, your head feels ever heavier and your sight grows dimmer. The creature...
+    awakened something in you. You feel a manifestation of the Warp take a hold of
+    your mind.\r You can no longer think straight. Your thoughts are being corrupted
+    by the very creature you killed.\r Your devotion to the God Emperor turns to hatred.\r
+    Your faith in His will becomes deceitful schemeing and lies.\r Your outlook for
+    the Imperium's survival become bleak, and you find humour in that.\r Your desire
+    for pleasures once denied to you can no longer be sated.\r\n\nIn your last concious
+    moments, you feel you are about to transform nto the very creature you have just
+    slain."

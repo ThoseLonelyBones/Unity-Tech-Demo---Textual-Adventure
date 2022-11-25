@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca7ee684f61b0c84b95650353af3f1c3, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  scenario_text: "The year is the 999th of the 41st Millenium. Your planet is Cadia
+    and, like countless others, you are part of the Imperial Guard: Mankind's thousands
+    of billions of faithful servants who fight and give their life to protect the
+    Imperium's continued existence in the galaxy.\r\n\r\nYou were fighting hordes
+    of unidentified creatures out of your worst nightmares when you blacked out. You
+    don't remember much but your head feels heavy and your sight grows ever dimmer.\r\n\r\nThe
+    only thing you can scan around you is the bleak and depressing corridors of the
+    Hive City and - labirinthic as they are - give you no direction on your current
+    location.\r\n\r\nWhat do you want to do?"
+  scenario_name: Scenario1
+  scenario_alt_text: 'Returning to the corridor you woke up on, the only thing you
+    can scan around you is the bleak and depressing corridors of the Hive City and
+    - labirinthic as they are - give you no direction on your current location.
+
+
+    What do you want to do?'
